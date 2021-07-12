@@ -39,8 +39,12 @@ http://www.iamport.kr 에서 아임포트 서비스에 대한 보다 상세한 �
 http://www.iamport.kr
 = 관리자 페이지 =
 https://admin.iamport.kr
+= 아임포트 docs =
+https://docs.iamport.kr
 = 페이스북 =
 https://www.facebook.com/iamportservice
+= 고객센터 =
+1670-5176 / cs@iamport.kr
 
 = 고객센터 =
 1670-5176 / iamport@siot.do

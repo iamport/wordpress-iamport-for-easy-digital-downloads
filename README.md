@@ -23,15 +23,18 @@ http://www.iamport.kr 에서 아임포트 서비스에 대한 보다 상세한 �
 
 1. 다운받은 iamport-for-edd.zip파일을 `/wp-content/plugins/` 디렉토리에 복사합니다.
 2. unzip iamport-for-edd.zip으로 압축 파일을 해제하면 iamport-for-edd폴더가 생성됩니다.
-3. 워드프레스 관리자페이지에서 'Plugins'메뉴를 통해 "아임포트" 플러그인을 활성화합니다.
 
-![screenshot_1](https://github.com/iamport/wordpress-iamport-for-easy-digital-downloads/blob/main/assets/screenshot-1.png)
+![screenshot_1](https://ps.w.org/iamport-for-easy-digital-downloads/assets/screenshot-1.png)
 
-4. https://admin.iamport.kr 에서 관리자 회원가입 후 시스템설정 페이지의 "REST API키", "REST API secret"를 확인합니다.
+3. https://admin.iamport.kr 에서 관리자 회원가입 후 시스템설정 페이지의 "REST API키", "REST API secret"를 확인합니다.
    
-![screenshot_2](https://github.com/iamport/wordpress-iamport-for-easy-digital-downloads/blob/main/assets/screenshot-2.png)
+![screenshot_2](https://ps.w.org/iamport-for-easy-digital-downloads/assets/screenshot-2.png)
 
-5. Easy Digital Downloads 결제 설정페이지에서 해당 정보를 저장합니다.
+4. Easy Digital Downloads 결제 설정 페이지에서 "아임포트(비인증결제)" 옵션 활성 체크
+   
+![screenshot_3](https://ps.w.org/iamport-for-easy-digital-downloads/assets/screenshot-3.png)
+
+5. 아임포트(비인증결제) 설정 페이지에서 "REST API키", "REST API secret" 정보를 저장합니다.
 
 
 ## Action Hook
