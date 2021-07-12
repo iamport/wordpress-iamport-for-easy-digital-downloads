@@ -3,7 +3,7 @@
 * Plugin Name: 아임포트 결제플러그인 for Easy Digital Downloads (국내 모든 PG를 한 번에)
 * Plugin URI: http://www.iamport.kr
 * Description: Easy Digital Downloads 를 위한 아임포트 결제 플러그인 ( 신용카드 / 실시간계좌이체 / 가상계좌 / 휴대폰소액결제 - 에스크로포함 )
-* Version: 1.1.0
+* Version: 1.1.1
 * Author: SIOT, Shoplic
 * Contributors: movingcart,shoplic
 * Author URI: https://www.iamport.kr
