@@ -4,7 +4,7 @@ Donate link: https://www.iamport.kr
 Tags: edd, easy digital downloads, download, commerce, payment, checkout, 카카오페이, kakao, kakaopay, 이니시스, kpay, inicis, 유플러스, lguplus, uplus, 나이스, 나이스페이, nice, nicepay, 제이티넷, 티페이, jtnet, tpay, 다날, danal, 정기결제, subscription, 해외카드, visa, master, jcb, shopping, mall, iamport
 Requires at least: 3.0.1
 Tested up to: 5.0.4
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
