@@ -56,6 +56,9 @@ https://www.facebook.com/iamportservice
 
 
 == Changelog ==
+= 1.1.1 =
+* 내부 개발용 : SVN 자동배포 적용
+
 = 1.1.0 =
 * 아임포트 내 복수PG 설정 시 결제수단별 지정이 가능하도록 구분자 입력 처리
 * 네이버페이(결제형) 추가
