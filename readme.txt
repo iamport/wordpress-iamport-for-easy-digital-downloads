@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easy Digital Downloads를 위한 결제 플러그인. 국내 여러 PG사(KG이니시스, 나이스정보통신, JTNet, 카카오페이, 다날)를 지원합니다. 현재 신용카드(일반결제 / 간편결제), 휴대폰 소액결제, 카카오페이를 지원합니다.
 
 == Description ==
+Github 링크 : https://github.com/iamport/wordpress-iamport-for-easy-digital-downloads
 
 아임포트는 국내 PG서비스들을 표준화하고 있는 결제 서비스입니다. 아임포트 하나면 국내 여러 PG사들의 결제 기능을 표준화된 동일한 방식으로 사용할 수 있게 됩니다.
 이 플러그인은 아임포트 서비스를 Easy Digital Downloads(EDD)환경에 맞게 적용한 결제 플러그인입니다.
