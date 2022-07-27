@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.iamport.kr"><img src="https://ps.w.org/iamport-for-easy-digital-downloads/assets/banner-772x250.png" width="100%" alt="Iamport For Woocommerce"></a></p>
 
-> Easy Digital Downloads를 위한 결제 플러그인.
+> Easy Digital Downloads를 위한 결제 플러그인. (EDD 3.0.0 버젼까지 지원)
 
 [워드프레스 플러그인 링크](https://wordpress.org/plugins/iamport-for-easy-digital-downloads/) 
 
